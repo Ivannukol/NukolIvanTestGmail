@@ -1,0 +1,111 @@
+[ {
+  "uid" : "46884489098921c9",
+  "name" : "Send email to wrong mail address",
+  "time" : {
+    "start" : 1541974103744,
+    "stop" : 1541974145846,
+    "duration" : 42102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b283b13ec6fe330e",
+  "name" : "Send email",
+  "time" : {
+    "start" : 1542047842217,
+    "stop" : 1542047864510,
+    "duration" : 22293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d82753d1975c34d7",
+  "name" : "Send email to wrong mail address",
+  "time" : {
+    "start" : 1541974962321,
+    "stop" : 1541975040426,
+    "duration" : 78105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8e6c380354dce76",
+  "name" : "Send email to wrong mail address",
+  "time" : {
+    "start" : 1542047936551,
+    "stop" : 1542047974395,
+    "duration" : 37844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f378f19532df4233",
+  "name" : "Send from draft",
+  "time" : {
+    "start" : 1541974819977,
+    "stop" : 1541974882409,
+    "duration" : 62432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4706e78854775a7",
+  "name" : "Send email",
+  "time" : {
+    "start" : 1541974003474,
+    "stop" : 1541974032910,
+    "duration" : 29436
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d407126e9a78152",
+  "name" : "Send from draft",
+  "time" : {
+    "start" : 1541974041872,
+    "stop" : 1541974068160,
+    "duration" : 26288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59c5331f8ae87a8d",
+  "name" : "Move 3 emails to important and trash",
+  "time" : {
+    "start" : 1542047903232,
+    "stop" : 1542047929855,
+    "duration" : 26623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "835b32adf55a6850",
+  "name" : "Send email",
+  "time" : {
+    "start" : 1542014510812,
+    "stop" : 1542014520437,
+    "duration" : 9625
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "929611f9432dd4e5",
+  "name" : "Send from draft",
+  "time" : {
+    "start" : 1542047871531,
+    "stop" : 1542047895830,
+    "duration" : 24299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4465d7ae56ba9969",
+  "name" : "Send email",
+  "time" : {
+    "start" : 1541974762924,
+    "stop" : 1541974810689,
+    "duration" : 47765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

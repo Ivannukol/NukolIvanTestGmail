@@ -1,0 +1,250 @@
+{
+  "uid" : "4465d7ae56ba9969",
+  "name" : "Send email",
+  "fullName" : "test.gmail.TestClass.Test1",
+  "historyId" : "76cea3c9b989fd8d791f65c5a8ff819c",
+  "time" : {
+    "start" : 1541974762924,
+    "stop" : 1541974810689,
+    "duration" : 47765
+  },
+  "description" : "Test Description: Open compose window, fill fields and send message. Check is message sent and remove it.",
+  "descriptionHtml" : "<p>Test Description: Open compose window, fill fields and send message. Check is message sent and remove it.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "getDriver",
+    "time" : {
+      "start" : 1541974738815,
+      "stop" : 1541974759275,
+      "duration" : 20460
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login with email=nebedboy and password=652gyfr12",
+      "time" : {
+        "start" : 1541974751609,
+        "stop" : 1541974759260,
+        "duration" : 7651
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "login",
+        "value" : "nebedboy"
+      }, {
+        "name" : "password",
+        "value" : "652gyfr12"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Open compose window, fill fields and send message. Check is message sent and remove it.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open compose modal",
+      "time" : {
+        "start" : 1541974762971,
+        "stop" : 1541974796659,
+        "duration" : 33688
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Fill message fields with to=yura_mail.97@ukr.net, subject=80f66769-4dcc-4db9-878a-ff25d54b5ef1 and message=36d55541-1f67-4c71-8494-b5606f106894",
+      "time" : {
+        "start" : 1541974796659,
+        "stop" : 1541974805524,
+        "duration" : 8865
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "to",
+        "value" : "yura_mail.97@ukr.net"
+      }, {
+        "name" : "subject",
+        "value" : "80f66769-4dcc-4db9-878a-ff25d54b5ef1"
+      }, {
+        "name" : "message",
+        "value" : "36d55541-1f67-4c71-8494-b5606f106894"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Send message",
+      "time" : {
+        "start" : 1541974805524,
+        "stop" : 1541974805823,
+        "duration" : 299
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Go to folder 'Sent'",
+      "time" : {
+        "start" : 1541974805823,
+        "stop" : 1541974809707,
+        "duration" : 3884
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "folders",
+        "value" : "Sent"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Check is letter with subject='80f66769-4dcc-4db9-878a-ff25d54b5ef1' in folder",
+      "time" : {
+        "start" : 1541974809708,
+        "stop" : 1541974809856,
+        "duration" : 148
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "title",
+        "value" : "80f66769-4dcc-4db9-878a-ff25d54b5ef1"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Select letter with title='80f66769-4dcc-4db9-878a-ff25d54b5ef1'",
+      "time" : {
+        "start" : 1541974809864,
+        "stop" : 1541974810249,
+        "duration" : 385
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "title",
+        "value" : "80f66769-4dcc-4db9-878a-ff25d54b5ef1"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Click to delete many letters",
+      "time" : {
+        "start" : 1541974810250,
+        "stop" : 1541974810683,
+        "duration" : 433
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 7
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1541974810727,
+      "stop" : 1541974811940,
+      "duration" : 1213
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test.gmail.TestClass"
+  }, {
+    "name" : "testClass",
+    "value" : "test.gmail.TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "ParallelSuite"
+  }, {
+    "name" : "suite",
+    "value" : "AllTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "test.gmail.TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7AUE09S"
+  }, {
+    "name" : "thread",
+    "value" : "10528@DESKTOP-7AUE09S.TestNG-test=AllTest-1(13)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "yura_mail.97@ukr.net"
+  }, {
+    "name" : "arg1",
+    "value" : "[80f66769-4dcc-4db9-878a-ff25d54b5ef1, 36d55541-1f67-4c71-8494-b5606f106894]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4465d7ae56ba9969.json",
+  "parameterValues" : [ "yura_mail.97@ukr.net", "[80f66769-4dcc-4db9-878a-ff25d54b5ef1, 36d55541-1f67-4c71-8494-b5606f106894]" ]
+}

@@ -1,0 +1,149 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "ParallelSuite",
+    "children" : [ {
+      "name" : "AllTest",
+      "children" : [ {
+        "name" : "test.gmail.TestClass",
+        "children" : [ {
+          "name" : "Send email",
+          "uid" : "d4706e78854775a7",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1541974003474,
+            "stop" : 1541974032910,
+            "duration" : 29436
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[fd15938d-9fb1-42d0-98d2-c1c0d67d25e6, 0818f7ab-df48-4a5c-adea-9f4a0865b184]" ]
+        }, {
+          "name" : "Send from draft",
+          "uid" : "3d407126e9a78152",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1541974041872,
+            "stop" : 1541974068160,
+            "duration" : 26288
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[041fc3bc-e24f-4157-b345-bb9643937bde, 1098ee8e-4dd6-42e7-9ab4-4cb24ac8ee71]" ]
+        }, {
+          "name" : "Send email to wrong mail address",
+          "uid" : "46884489098921c9",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1541974103744,
+            "stop" : 1541974145846,
+            "duration" : 42102
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[asdasdasdsadsasdasdsadasdasdasd@gmail.com, 6926ba16-d6dc-48f0-95e5-f38a71f77ba9, 6dea2d34-e88b-487a-b7f3-85e107d42c0c]" ]
+        }, {
+          "name" : "Send email",
+          "uid" : "4465d7ae56ba9969",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1541974762924,
+            "stop" : 1541974810689,
+            "duration" : 47765
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[80f66769-4dcc-4db9-878a-ff25d54b5ef1, 36d55541-1f67-4c71-8494-b5606f106894]" ]
+        }, {
+          "name" : "Send from draft",
+          "uid" : "f378f19532df4233",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1541974819977,
+            "stop" : 1541974882409,
+            "duration" : 62432
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[5814d47a-0fa7-428b-ae67-8949ab01c4c1, 55fb3aa3-fa09-41db-94ac-0a077e84f4d2]" ]
+        }, {
+          "name" : "Send email to wrong mail address",
+          "uid" : "d82753d1975c34d7",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1541974962321,
+            "stop" : 1541975040426,
+            "duration" : 78105
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[asdasdasdsadsasdasdsadasdasdasd@gmail.com, c6d60a0a-ec7e-44d1-9382-0263a574b9b1, 36abdaa3-02e5-42b6-8749-b9fb2e40e16c]" ]
+        }, {
+          "name" : "Send email",
+          "uid" : "835b32adf55a6850",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "broken",
+          "time" : {
+            "start" : 1542014510812,
+            "stop" : 1542014520437,
+            "duration" : 9625
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[9aac3a47-c3d7-4803-b18c-2895130e6c19, fd87ae54-d59c-4c2b-87ee-bdbdfdd6f30b]" ]
+        }, {
+          "name" : "Send email",
+          "uid" : "b283b13ec6fe330e",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1542047842217,
+            "stop" : 1542047864510,
+            "duration" : 22293
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[0792027e-297a-4a28-9c6e-344439cdba11, 94534ebf-3a9b-4aed-a603-e438a93f7ce0]" ]
+        }, {
+          "name" : "Send from draft",
+          "uid" : "929611f9432dd4e5",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1542047871531,
+            "stop" : 1542047895830,
+            "duration" : 24299
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[723437d2-5d30-41de-90f9-4c13721feeee, d5719ee8-e317-490c-b415-bfec1cedfe4a]" ]
+        }, {
+          "name" : "Move 3 emails to important and trash",
+          "uid" : "59c5331f8ae87a8d",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1542047903232,
+            "stop" : 1542047929855,
+            "duration" : 26623
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        }, {
+          "name" : "Send email to wrong mail address",
+          "uid" : "f8e6c380354dce76",
+          "parentUid" : "f1b6a6e26dcdb22fd750579cdf711ca0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1542047936551,
+            "stop" : 1542047974395,
+            "duration" : 37844
+          },
+          "flaky" : false,
+          "parameters" : [ "yura_mail.97@ukr.net", "[asdasdasdsadsasdasdsadasdasdasd@gmail.com, da49b1f0-5388-4f22-951c-01bd3f070c12, 0cfde209-87e6-4003-b406-7e216539db70]" ]
+        } ],
+        "uid" : "f1b6a6e26dcdb22fd750579cdf711ca0"
+      } ],
+      "uid" : "60c8bbd00fb704732530d093395b3346"
+    } ],
+    "uid" : "7b53f0b23bdb8468fa42e84edd611a05"
+  } ]
+}

@@ -1,0 +1,245 @@
+{
+  "3902001ef21e465cf130cce717056374" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "835b32adf55a6850",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1542014510812,
+        "stop" : 1542014520437,
+        "duration" : 9625
+      }
+    } ]
+  },
+  "76cea3c9b989fd8d791f65c5a8ff819c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4465d7ae56ba9969",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974762924,
+        "stop" : 1541974810689,
+        "duration" : 47765
+      }
+    } ]
+  },
+  "9d2ad1adcdda407f58cd35320fb78a27" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "46884489098921c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974103744,
+        "stop" : 1541974145846,
+        "duration" : 42102
+      }
+    }, {
+      "uid" : "f18a5abbee548559",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974103744,
+        "stop" : 1541974145846,
+        "duration" : 42102
+      }
+    } ]
+  },
+  "1e10462f687704521bebcbeffd2999aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d4706e78854775a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974003474,
+        "stop" : 1541974032910,
+        "duration" : 29436
+      }
+    }, {
+      "uid" : "d2d82654e1965df5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974003474,
+        "stop" : 1541974032910,
+        "duration" : 29436
+      }
+    } ]
+  },
+  "87de881705d2f0f77cc7f2e6134fa1db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b283b13ec6fe330e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542047842217,
+        "stop" : 1542047864510,
+        "duration" : 22293
+      }
+    } ]
+  },
+  "d621e3063cc542036ce3166dba535dc2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3d407126e9a78152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974041872,
+        "stop" : 1541974068160,
+        "duration" : 26288
+      }
+    }, {
+      "uid" : "e4f1648a6eeb51c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974041872,
+        "stop" : 1541974068160,
+        "duration" : 26288
+      }
+    } ]
+  },
+  "36e15e58595832437ec05557c0f847eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d82753d1975c34d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974962321,
+        "stop" : 1541975040426,
+        "duration" : 78105
+      }
+    } ]
+  },
+  "bfe245bd11668ec83000fcbc447693bb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f378f19532df4233",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541974819977,
+        "stop" : 1541974882409,
+        "duration" : 62432
+      }
+    } ]
+  },
+  "86b4db6de9229ace54c75596dee47d45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "929611f9432dd4e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542047871531,
+        "stop" : 1542047895830,
+        "duration" : 24299
+      }
+    } ]
+  },
+  "8c1e11e75d834b3a2358d690dd38936b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "59c5331f8ae87a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542047903232,
+        "stop" : 1542047929855,
+        "duration" : 26623
+      }
+    }, {
+      "uid" : "e9fb1fce26fdfae4",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.77)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'DESKTOP-7AUE09S', ip: '192.168.189.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\\Users\\admin\\AppData\\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:1770}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}\nSession ID: 11bc80736dc578585120d23005e0a9d6",
+      "time" : {
+        "start" : 1541974075198,
+        "stop" : 1541974096215,
+        "duration" : 21017
+      }
+    } ]
+  },
+  "850ebd8c3fc98fb831a2ef7bf570b42d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f8e6c380354dce76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542047936551,
+        "stop" : 1542047974395,
+        "duration" : 37844
+      }
+    } ]
+  }
+}

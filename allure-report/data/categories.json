@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "Send email",
+        "uid" : "835b32adf55a6850",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1542014510812,
+          "stop" : 1542014520437,
+          "duration" : 9625
+        },
+        "flaky" : false,
+        "parameters" : [ "yura_mail.97@ukr.net", "[9aac3a47-c3d7-4803-b18c-2895130e6c19, fd87ae54-d59c-4c2b-87ee-bdbdfdd6f30b]" ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
